@@ -1,9 +1,9 @@
 ## ATTENTION!
-This used to be my telegram bot inside Auto-GPT.
-But as Auto-GPT has evolved, the new and supported Telegram bot is now a plugin.
+This used to be my telegram bot inside of the old Auto-GPT (from 2023).
+As Auto-GPT has evolved, the new and supported Telegram bot is now a plugin.
 Please use this link: https://github.com/Wladastic/Auto-GPT-Telegram-Plugin
 
-If you want the old experience, feel free to clone this repo, but beware that it is not up to date.
+If you want the old experience, feel free to clone this repo, but beware that it is not up to date AND contains all of the security risks that have been fixed in the official AutoGPT!
 
 
 
